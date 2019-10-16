@@ -3,7 +3,7 @@ fcc9e8dd2ee82d3838a6f494bd490393  config.pb
 0612f88ce7f7017a7c121c874402275d  mipsle-v2c
 c1bfdc0e579558a4a4dd4376346b0424  mipsle-v2r
 fcc9e8dd2ee82d3838a6f494bd490393  route-dns.pb
-0ecaa4b5612809e6c885ce15daedb56e  acc_cndn_list.conf
+d02e1ca33e09916fdb34e48ddec51bd3  acc_cndn_list.conf
 b728a5bd55f873030b90c286a6da8f27  cust.conf
-00eb2a8de1e4c2386b8f771efe0484d3  dnsmasq_list.conf
-ba422dcf170fb2c2f59da0f051d2143d  sum.md5
+060a25b0e6da74debfcb8e51774fa3fc  dnsmasq_list.conf
+dc6123ad75138ee0631eb6d19b9725b0  sum.md5
