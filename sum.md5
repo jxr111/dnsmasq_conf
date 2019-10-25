@@ -1,9 +1,4 @@
-fcc9e8dd2ee82d3838a6f494bd490393  config.pb
-80a047de39afc866d35331cb4b5a5b6b  geosite.dat
-0612f88ce7f7017a7c121c874402275d  mipsle-v2c
-c1bfdc0e579558a4a4dd4376346b0424  mipsle-v2r
-fcc9e8dd2ee82d3838a6f494bd490393  route-dns.pb
-a9524d6305fdb8e524a30da062afbea9  acc_cndn_list.conf
+5307a837d2017a6e5821926283958bc4  acc_cndn_list.conf
 b728a5bd55f873030b90c286a6da8f27  cust.conf
-5ad388dd9e49dd31f3244fbdc1e2dbae  dnsmasq_list.conf
-743410cc5f7bf0c76f225ba286672fd8  sum.md5
+7ab316a61d1d639056ee4339d2aa0e80  dnsmasq_list.conf
+038a639cf9c0ff2badb6be63f1031d39  sum.md5
