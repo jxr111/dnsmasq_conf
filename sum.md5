@@ -1,8 +1,4 @@
 9d5022463237dfe367ed8a3709e7c0b5  acc_cndn_list.conf
-<<<<<<< HEAD
 c0803c7bd9446f9c2711a8da6a73fed1  cust.conf
-=======
-b728a5bd55f873030b90c286a6da8f27  cust.conf
-be4bd782879df61f4ba42035f9937fbc  dnsmasq_list.conf
-dad3afd04ad758b28f1aca1270a543a3  sum.md5
->>>>>>> 3134c5a8f47d723a883ef7e7ec7763e09c4fe038
+adc0efe4d6fea6fa4d83165458f185e4  dnsmasq_list.conf
+bee8f704b0ddc23a7656da662ce3d36c  sum.md5
