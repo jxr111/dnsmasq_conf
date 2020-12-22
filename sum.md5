@@ -1,4 +1,5 @@
-521cd202cb020a25fb864fe53fc688ae  acc_cndn_list.conf
+0c2ceeff9c4531cc8853123136f26833  acc_cndn_list.conf
+c0803c7bd9446f9c2711a8da6a73fed1  bogus.conf
 c0803c7bd9446f9c2711a8da6a73fed1  cust.conf
-90ac91b32f37ae2ab1ecf53668a3aa5d  dnsmasq_list.conf
-b84f571a14e329f6e8370d47e3394915  sum.md5
+386a9c11c3a5f33dc2dcda8c50fbe5ce  dnsmasq_list.conf
+90d6beb026dfd9dac8eb737958d132f8  sum.md5
